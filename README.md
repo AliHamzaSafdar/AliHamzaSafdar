@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ali Hamza</h1>
-<h3 align="center">A passionate Devops Engineer from Pakistan,having over 3+ years of experirence in developing and deploying full stack applications.</h3>
+<h3 align="center">A passionate Devops Engineer from Pakistan
+</br>having over 3+ years of experirence in developing and deploying full stack applications.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alihamzasafdar" alt="alihamzasafdar" /></a> </p>
 
 - 🔭 I’m currently working on **Pattern Technologies**
 
 - 🌱 I’m currently learning **Container Orchestration using Docker Swarm**
 
-- 👯 I’m looking to collaborate on **Opern Source Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AliHamzaSafdar](https://github.com/AliHamzaSafdar)
+- 👨‍💻 All of my projects are available at [AliHamzaSafdar](https://github.com/AliHamzaSafdar)
 
-- 💬 Ask me about **Django, Flask, FastAPI, AI, Blockchain**
+- 💬 Ask me about **Django, Flask, FastAPI, AI, Blockchain, Full Stack Development**
 
-- 📫 How to reach me **ali.hamza@thepattern.app**
+- 📫 Reach me here at my  [E-mail](https://github.com/AliHamzaSafdar)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

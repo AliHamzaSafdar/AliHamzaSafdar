@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Hamza</h1>
-<h3 align="center">A passionate Devops Engineer from Pakistan
-</br>having over 3+ years of experirence in developing and deploying full stack applications.</h3>
+<h3 align="center">A passionate Devops Engineer from Pakistan having over 3+ years of experience
+</br>in developing and deploying full stack applications.</h3>
 
 
 - 🔭 I’m currently working on **Pattern Technologies**

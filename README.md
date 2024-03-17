@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Hamza</h1>
-<h3 align="center">A passionate Devops Engineer from Pakistan
-</br>having over 3+ years of experirence in developing and deploying full stack applications.</h3>
+<h3 align="center">A passionate Devops Engineer from Pakistan having over 3+ years of experirence in developing and deploying full stack applications.</h3>
 
 
 - 🔭 I’m currently working on **Pattern Technologies** as a Backend Engineer
@@ -60,12 +59,20 @@
         <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
     </p>
 <h3 align="left">Cloud Services:</h3>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-    <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alihamzasafdar&show_icons=true&locale=en&layout=compact" alt="alihamzasafdar" /></p>
+    <p align="left">
+        <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+        <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+        <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a> 
+    </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alihamzasafdar&show_icons=true&locale=en" alt="alihamzasafdar" /></p>
+## Top Languages
+<p align="center">
+    <a href="https://github.com/alihamzasafdar">     
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alihamzasafdar&show_icons=true&locale=en&layout=compact" alt="alihamzasafdar"/>
+    </a>
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alihamzasafdar&show_icons=true&locale=en" alt="alihamzasafdar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alihamzasafdar&" alt="alihamzasafdar" /></p>

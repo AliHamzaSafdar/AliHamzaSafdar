@@ -38,6 +38,6 @@
 ## Activity On GitHub:
 <p align="center">
   <a href="https://github.com/Thinkright20">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alihamzasafdar&theme=dark&hide_border=true&stroke=f53b3b"/>
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alihamzasafdar&theme=light&hide_border=false&stroke=f53b3b&"/>
 </a> 
 </p>

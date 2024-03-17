@@ -2,8 +2,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5824&random=false&width=435&lines=A+Passionate+Devops%2FBackend+Guy;with+3%2B+years+of+coding+Experience;working+on+DevSecOps+and+AI%2FML;Interest+in+container+Orchestration" alt="Typing SVG" /></a>
 </p>
 
-<p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</p>
+<p align="center">
+[  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+](https://github.com/AliHamzaSafdar/AliHamzaSafdar/blob/main/code.gif
+  )</p>
 
 <h1 align="center">Hi There! 👋, I'm Ali Hamza</h1>
 

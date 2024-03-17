@@ -32,7 +32,7 @@
 
 ## My Stats So Far:
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=alihamzasafdar&hide_border=false&show_icons=true&count_private=true&theme=light&hide_border=false&stroke=f53b3b&">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=alihamzasafdar&hide_border=false&show_icons=true&count_private=false&theme=light&hide_border=false&stroke=f53b3b&">
 </p>
 
 ## Activity On GitHub:

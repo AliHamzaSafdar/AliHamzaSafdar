@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Container Orchestration**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Django, Flask, FastAPI, AI, Blockchain, Full Stack Development**
-- 👨‍ Get my resume [Here](https://drive.google.com/file/d/1WYQA5-sByfX0mmxoSPegS0Szj7xoiHjR/view?usp=sharing)
+- 👨‍ Get my resume [Here](https://docs.google.com/document/d/1XwVMTahIDys0UBQf6GnakAxrz0ohiY4eEEFxpDslZaI/edit?usp=sharing)
 
 ## Connect with me
 <p align="left"> 

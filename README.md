@@ -14,9 +14,6 @@
 ## Connect with me
 <p align="left"> 
     <a href="https://www.linkedin.com/in/ali-hamza-safdar/"><img src="https://skillicons.dev/icons?i=linkedin"> </a> 
-    <a href="https://www.instagram.com/hamza_oyee"><img src="https://skillicons.dev/icons?i=instagram"> </a>
-    <a href="https://www.x.com/not_dada_abu"><img src="https://skillicons.dev/icons?i=twitter"> </a>
-    <a href="https://www.gitlab.com/grappes"><img src="https://skillicons.dev/icons?i=gitlab"> </a>
 </p>
 
 ## Activity On GitHub:

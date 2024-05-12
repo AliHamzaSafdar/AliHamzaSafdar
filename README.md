@@ -21,15 +21,6 @@
     <a href="https://www.gitlab.com/grappes"><img src="https://skillicons.dev/icons?i=gitlab"> </a>
 </p>
 
-
-## Languages and Tools:
-<p align="left"> <a href="https://github.com/alihamzasafdar"><img src="https://skillicons.dev/icons?i=python,c,js,github,docker,kubernetes,jenkins,docker,rabbitmq,github,figma,gitlab"> </a> </p>
-<p align="left"> <a href="https://github.com/alihamzasafdar"><img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,react,postgresql,mysql,mongo,redis,sqlite,express,opencv"> </a> </p>
-
-## Cloud Services:
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=aws,gcp,azure,heroku,firebase"> </a> </p>
-
-
 ## My Stats So Far:
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=alihamzasafdar&hide_border=true&show_icons=true&count_private=false&theme=light&hide_border=false&stroke=f53b3b&">

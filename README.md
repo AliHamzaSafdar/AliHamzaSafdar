@@ -7,11 +7,9 @@
 
 <h1 align="center">Hey There! 👋, I'm Ali Hamza</h1>
 
-- 🔭 I’m currently working on **Pattern Technologies** as a Backend Engineer
-- 🌱 I’m currently learning **Container Orchestration**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Django, Flask, FastAPI, AI, Blockchain, Full Stack Development**
-- 👨‍ Get my resume [Here](https://docs.google.com/document/d/1XwVMTahIDys0UBQf6GnakAxrz0ohiY4eEEFxpDslZaI/edit?usp=sharing)
+- currently working on **Pattern Technologies** as a Backend Engineer
+- looking to collaborate on **Open Source Projects**
+- Ask me about **Django, Flask, FastAPI, AI, Blockchain, Full Stack Development**
 
 ## Connect with me
 <p align="left"> 
@@ -19,11 +17,6 @@
     <a href="https://www.instagram.com/hamza_oyee"><img src="https://skillicons.dev/icons?i=instagram"> </a>
     <a href="https://www.x.com/not_dada_abu"><img src="https://skillicons.dev/icons?i=twitter"> </a>
     <a href="https://www.gitlab.com/grappes"><img src="https://skillicons.dev/icons?i=gitlab"> </a>
-</p>
-
-## My Stats So Far:
-<p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=alihamzasafdar&hide_border=true&show_icons=true&count_private=false&theme=light&hide_border=false&stroke=f53b3b&">
 </p>
 
 ## Activity On GitHub:

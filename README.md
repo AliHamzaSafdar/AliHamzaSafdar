@@ -15,8 +15,3 @@
 <p align="left"> 
     <a href="https://www.linkedin.com/in/ali-hamza-safdar/"><img src="https://skillicons.dev/icons?i=linkedin"> </a> 
 </p>
-
-## Activity On GitHub:
-<p align="center">
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alihamzasafdar&theme=light&hide_border=false&stroke=f53b3b&"/>
-</p>

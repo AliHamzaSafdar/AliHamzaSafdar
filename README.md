@@ -9,7 +9,7 @@
 
 - currently working on **Pattern Technologies** as a Backend Engineer
 - looking to collaborate on **Open Source Projects**
-- Ask me about **Django, Flask, FastAPI, AI, Blockchain, Full Stack Development**
+- **Django, Flask, FastAPI, AI, Full Stack Development, CLoudOps, API Integrations**
 
 ## Connect with me
 <p align="left"> 

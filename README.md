@@ -1,7 +1,7 @@
 <h1 align="center">Hey There! 👋, I'm Ali Hamza</h1>
 
-- currently working on **Pattern Technologies** as a Backend Engineer
-- looking to collaborate on **Open Source Projects**
+- currently working on **Pattern Technologies** as a CloudOps Engineer
+- Open to collaborate on **Open Source Projects**
 - **Django, Flask, FastAPI, AI, Full Stack Development, CLoudOps, API Integrations**
 
 ## Connect with me

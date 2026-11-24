@@ -2,7 +2,7 @@
 
 - Founder Asterick Lab
 - Open to collaborate on **Open Source Projects**
-- **Django, Flask, FastAPI, AI, Full Stack Development, CLoudOps, API Integrations**
+- **CloudOps, TaxTech, FinTech, HealthTech**
 
 ## Connect with me
 <p align="left"> 

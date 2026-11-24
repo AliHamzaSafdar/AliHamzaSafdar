@@ -1,6 +1,6 @@
 <h1 align="center">Hey There! 👋, I'm Ali Hamza</h1>
 
-- currently working at **Pattern Technologies** as a CloudOps Engineer
+- Founder Asterick Lab
 - Open to collaborate on **Open Source Projects**
 - **Django, Flask, FastAPI, AI, Full Stack Development, CLoudOps, API Integrations**
 
